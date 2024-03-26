@@ -4,8 +4,6 @@
 
 ## Rigth know I'm currently studying:
 * Artificial Intelligence at [Universitat Autonoma de Barcelona.][UAB]
-* Programming skills at [42 Barcelona.][42]
-
 
 
 In my github I will be posting projects and topics about the things that I learned in Artificial intelligence and computer science.
