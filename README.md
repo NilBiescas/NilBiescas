@@ -3,6 +3,8 @@
 
 
 ## Rigth know I'm currently studying:
+* Master In Data Science at EPFL
+## Bachelors in:
 * Artificial Intelligence at [Universitat Autonoma de Barcelona.][UAB]
 
 
